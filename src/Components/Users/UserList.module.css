@@ -1,0 +1,12 @@
+.list{
+    list-style: none;
+    color: #575872;
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    border: 1px solid #575872;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 0.4rem;
+    box-shadow: 0 0 5px #575872;
+}

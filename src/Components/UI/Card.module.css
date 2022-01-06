@@ -1,0 +1,27 @@
+.card {
+  background: #fafafa;
+  color: #575872;
+  margin: 2rem;
+  border-radius: 10px;
+  padding: 2rem 1rem;
+  box-shadow: 0 0 10px #aaa;
+}
+.card label {
+  margin:0 1rem;
+}
+.card input {
+  display: inline-block;
+  width: 100%;
+  margin: 1rem 0.5rem;
+  padding: 0.6rem;
+  border-radius: 5px;
+  outline: none;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom:2px solid #aaa;
+  font-size: 1.3rem;
+}
+.card input:focus{
+    border-bottom:2px solid #8e1da5;
+}
